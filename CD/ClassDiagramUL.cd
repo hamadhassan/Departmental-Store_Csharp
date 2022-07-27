@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="POS.UL.CredentialUL">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UL\CredentialUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.UL.CustomerUL">
+    <Position X="3.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAABAIAAAA=</HashCode>
+      <FileName>UL\CustomerUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.UL.ProductUL">
+    <Position X="6.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAIAAAAAAAAAAAEAIAAAEAAACAA=</HashCode>
+      <FileName>UL\ProductUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS.UL.MiscUL">
+    <Position X="0.5" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UL\MiscUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

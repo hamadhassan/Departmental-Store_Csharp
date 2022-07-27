@@ -1,0 +1,3 @@
+xyz,grocery,123,20,10
+ali,Fruit,400,300,50
+abc,fruit,300,200,10

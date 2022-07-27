@@ -1,0 +1,16 @@
+D:\COMPUTER SCIENCE\PD\POS\bin\Debug\POS.exe.config
+D:\COMPUTER SCIENCE\PD\POS\bin\Debug\POS.exe
+D:\COMPUTER SCIENCE\PD\POS\bin\Debug\POS.pdb
+D:\COMPUTER SCIENCE\PD\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\POS\obj\Debug\POS.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\POS\obj\Debug\POS.exe
+D:\COMPUTER SCIENCE\PD\POS\obj\Debug\POS.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\bin\Debug\POS.exe.config
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\bin\Debug\POS.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\bin\Debug\POS.pdb
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\obj\Debug\POS.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\obj\Debug\POS.exe
+D:\COMPUTER SCIENCE\PD\Assignemnt\POS\Code\POS\obj\Debug\POS.pdb
