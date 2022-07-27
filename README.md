@@ -43,3 +43,10 @@ Make 3 classes
 #### User Interfaces Layer
 ![ul](https://user-images.githubusercontent.com/96945594/181287681-54bd5e9b-1b9c-4957-89ee-79a14820ee1c.JPG)
 
+## Sequence Diagram
+### SignUp
+![Login 2 SignUp](https://user-images.githubusercontent.com/96945594/181288335-154e54ec-bdd6-4391-96ff-7224a7998d32.jpg)
+### Add Product
+![Admin 1  Add Product](https://user-images.githubusercontent.com/96945594/181288349-affbc233-3fd2-4bda-9efe-5530ac23e58b.jpg)
+### Buy Product
+![Cust 2 Buy Product](https://user-images.githubusercontent.com/96945594/181288363-d8bdbf25-8bff-4803-b185-bd07e3edab9d.jpg)
